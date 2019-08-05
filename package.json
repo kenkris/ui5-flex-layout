@@ -1,0 +1,13 @@
+{
+  "name": "first",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "@types/openui5": "^1.40.2"
+  }
+}
