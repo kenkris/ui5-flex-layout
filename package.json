@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-webserver": "^0.9.1"
   },
   "dependencies": {
